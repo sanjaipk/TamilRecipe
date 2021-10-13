@@ -5,6 +5,10 @@ VisualStudioVersion = 16.0.810.10
 MinimumVisualStudioVersion = 10.0.40219.1
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "TamilRecipe", "TamilRecipe\TamilRecipe.csproj", "{53E1B003-A265-4D0B-B7FA-C21BC2667EC9}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "AppModelv2-WebApp-OpenIDConnect-DotNet", "..\..\Downloads\AppModelv2-WebApp-OpenIDConnect-DotNet-master\AppModelv2-WebApp-OpenIDConnect-DotNet\AppModelv2-WebApp-OpenIDConnect-DotNet.csproj", "{B1683E5F-00E4-4690-97AE-1C94A4F9FC82}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "openconnect", "openconnect\openconnect.csproj", "{20DDB80D-CD05-4389-A4F2-A6F4E2BBB6F6}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -15,6 +19,14 @@ Global
 		{53E1B003-A265-4D0B-B7FA-C21BC2667EC9}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{53E1B003-A265-4D0B-B7FA-C21BC2667EC9}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{53E1B003-A265-4D0B-B7FA-C21BC2667EC9}.Release|Any CPU.Build.0 = Release|Any CPU
+		{B1683E5F-00E4-4690-97AE-1C94A4F9FC82}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{B1683E5F-00E4-4690-97AE-1C94A4F9FC82}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{B1683E5F-00E4-4690-97AE-1C94A4F9FC82}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{B1683E5F-00E4-4690-97AE-1C94A4F9FC82}.Release|Any CPU.Build.0 = Release|Any CPU
+		{20DDB80D-CD05-4389-A4F2-A6F4E2BBB6F6}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{20DDB80D-CD05-4389-A4F2-A6F4E2BBB6F6}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{20DDB80D-CD05-4389-A4F2-A6F4E2BBB6F6}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{20DDB80D-CD05-4389-A4F2-A6F4E2BBB6F6}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
